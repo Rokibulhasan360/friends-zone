@@ -1,0 +1,19 @@
+.timeline-container{
+    display: flex;
+    background-color: lightpink;
+    
+}
+
+.person-container{
+    width: 70%;
+    margin-left: 20px;
+    margin-right: 5px;
+    border-right: 1px solid white;
+    margin-top: 210px;
+    
+}
+
+.count-container{
+    position: relative;
+    
+}
